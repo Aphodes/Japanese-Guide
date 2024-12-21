@@ -54,6 +54,8 @@ You are also free to have a go at immersion at any point in time while building 
 Below are a few options you can use to learn words with. 
 
 Remember, language learning is a marathon not a race, and these are tools to help you learn the language, not actual language learning itself. Doing 100 new words does not mean you're learning the language.
+  <br>
+  
 
 ### Anki + Kaishi
 
