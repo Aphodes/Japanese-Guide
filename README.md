@@ -27,7 +27,6 @@ You do not need to attain 100% accuracy or be able to instantly recognize them. 
 
 <br>
 <br>
-<br>
 
 
 # Grammar and Vocabulary
@@ -40,8 +39,10 @@ As a beginner you need
       
     
 -   A way to learn grammar and acquire awareness of the language structure
+<br>
 
 Your objective is to build enough of a foundation in these two aspects so that you can start immersing in content meant for native speakers. Even if you forget words or grammar points, you will at least have enough knowledge to know what you don't know and and be able to look it up or ask about it. 
+<br>
 
 You are also free to have a go at immersion at any point in time while building your foundation. When to take the leap is up to you.
 
