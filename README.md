@@ -1,2 +1,1 @@
-* text=auto
-starter guide.md merge=union
+japanese guide.md
