@@ -47,7 +47,6 @@ Your objective is to build enough of a foundation in these two aspects so that y
 You are also free to have a go at immersion at any point in time while building your foundation. When to take the leap is up to you.
 
 <br>
-<br>
 
 ## A way to learn words
 
