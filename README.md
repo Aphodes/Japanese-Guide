@@ -137,7 +137,6 @@ Classic classroom textbook. While geared towards classroom learning, it is perfe
 
 <br>
 
-
 ### Minna No Nihongo (MNN)
 
 Similar to Genki but entirely in Japanese. Personally don't recommend it due to the higher barrier to entry and less than ideal lessons.
