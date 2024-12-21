@@ -6,8 +6,7 @@ This is a condensed version of resources and ideas that can be found on [https:/
 <br>
 
 
-
-## Kana
+# Kana
 
 The first thing you should do is learn kana. This is the “alphabet” of Japanese so to speak and consists of Hiragana and Katakana. You will need to learn both.
 
@@ -21,6 +20,8 @@ Guide to Katakana: **[https://www.tofugu.com/japanese/learn-katakana/](https://w
   
 
 Practice quiz: **[https://realkana.com/](https://realkana.com/)**
+<br>
+
 
 You do not need to attain 100% accuracy or be able to instantly recognize them. You just need to know most of them, to a reasonable degree, to move on to the next step.
 
@@ -97,12 +98,14 @@ A website that acts as both a dictionary and an Anki-like SRS flashcard app. It 
 ## A way to learn grammar
 Below are some options to learn grammar with. They all cover pretty much the same thing so it's ok to choose one. You can cross-reference articles or lessons if you feel like the explanations are lacking.
 
+<br>
 
 ### Tae Kims
 
 A very standard guide which doesn't overstay its welcome. Explains concepts with examples and reads like several articles put together.
 
-  
+  <br>
+
 
 **[https://guidetojapanese.org/learn/grammar](https://guidetojapanese.org/learn/grammar)**
 
@@ -110,7 +113,8 @@ A very standard guide which doesn't overstay its welcome. Explains concepts with
 
 A guide which doesn't believe that mastery of grammar comes from reading long winded textbook explanations. The goal of this guide is to speedrun through all the core grammar points to familiarise yourself with them.
 
-  
+  <br>
+
 
 **[https://sakubi.neocities.org/](https://sakubi.neocities.org/)**
 
@@ -122,6 +126,9 @@ Classic classroom textbook. While geared towards classroom learning, it is perfe
   
 
 **[https://bit.ly/3qa752M](https://bit.ly/3qa752M)**
+
+<br>
+
 
 ### Minna No Nihongo (MNN)
 
