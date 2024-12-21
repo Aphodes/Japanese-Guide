@@ -4,7 +4,6 @@ This is a condensed version of resources and ideas that can be found on [https:/
 <br>
 <br>
 <br>
-<br>
 
 
 
@@ -25,6 +24,11 @@ Practice quiz: **[https://realkana.com/](https://realkana.com/)**
 
 You do not need to attain 100% accuracy or be able to instantly recognize them. You just need to know most of them, to a reasonable degree, to move on to the next step.
 
+<br>
+<br>
+<br>
+
+
 # Grammar and Vocabulary
 
 As a beginner you need
@@ -39,6 +43,9 @@ As a beginner you need
 Your objective is to build enough of a foundation in these two aspects so that you can start immersing in content meant for native speakers. Even if you forget words or grammar points, you will at least have enough knowledge to know what you don't know and and be able to look it up or ask about it. 
 
 You are also free to have a go at immersion at any point in time while building your foundation. When to take the leap is up to you.
+
+<br>
+<br>
 
 ## A way to learn words
 
@@ -62,6 +69,7 @@ Kaishi, an Anki core deck that covers important vocabulary you are likely to see
 - Turn on FSRS 
 - Click the optimize button every month or so
 
+<br>
 
 ### Wanikani
 
@@ -71,6 +79,9 @@ A paid service meant to teach you vocabulary with a focus on kanji. Comes with i
 
 **[https://www.wanikani.com/](https://www.wanikani.com/)**
 
+<br>
+
+
 ### JPDB
 
 A website that acts as both a dictionary and an Anki-like SRS flashcard app. It has vocabulary deck made from various Japanese media, focusing on helping you learn what you want to read or watch. There is some customizability but the developer has been steadily updating less and less. Also no real core decks to start out with for beginners (unless you want to port from Anki).
@@ -78,6 +89,9 @@ A website that acts as both a dictionary and an Anki-like SRS flashcard app. It 
   
 
 **[https://jpdb.io/](https://jpdb.io/)**
+
+<br>
+<br>
 
 
 ## A way to learn grammar
