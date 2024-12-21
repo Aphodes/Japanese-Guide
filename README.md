@@ -21,7 +21,7 @@ Guide to Katakana: **[https://www.tofugu.com/japanese/learn-katakana/](https://w
 
 Practice quiz: **[https://realkana.com/](https://realkana.com/)**
 <br>
-
+<br>
 
 You do not need to attain 100% accuracy or be able to instantly recognize them. You just need to know most of them, to a reasonable degree, to move on to the next step.
 
