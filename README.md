@@ -143,3 +143,31 @@ Similar to Genki but entirely in Japanese. Personally don't recommend it due to 
 
 
 **[https://bit.ly/3iSJ1Qk](https://bit.ly/3iSJ1Qk)**
+
+<br>
+
+
+## Pitch Accent
+
+Despite what people say, pitch is absolutely a core part of the language and while it's possible to get by without good pitch, it will make conversing with you significantly more difficult and unpleasant. 
+
+As a beginner, doing about 10 hours of ear training for pitch accent early on in your learning process can help you save hundreds of hours of pain later on.
+
+Start by doing the minimal pairs test on https://kotu.io/, this is to see if you are able to correctly perceive the pitch of words. The test has no actual end but a good benchmark is 100 questions, of which you should aim to get all of them correct. 
+
+<br>
+
+## Graded Readers
+
+These are books or stories deliberately made to be accessible for beginners. The aim of these books are to introduce you more vocabulary and more complicated grammar structures with each level, slowly easing you into reading. 
+
+While some people may find graded readers boring, they are a good stepping stone towards reading actual native content and also good practice for a beginner.
+
+  
+ [https://jgrpg-sakura.com/](https://jgrpg-sakura.com/ "https://jgrpg-sakura.com/") 
+   
+[https://tadoku.org/japanese/free-books/](https://tadoku.org/japanese/free-books/ "https://tadoku.org/japanese/free-books/") 
+
+ [https://www.nhk.or.jp/school/kokugo/ohanashi/](https://www.nhk.or.jp/school/kokugo/ohanashi/ "https://www.nhk.or.jp/school/kokugo/ohanashi/") 
+ 
+  [https://www.nhk.or.jp/school/kokugo/classic/](https://www.nhk.or.jp/school/kokugo/classic/ "https://www.nhk.or.jp/school/kokugo/classic/") 
