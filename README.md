@@ -104,7 +104,7 @@ Below are some options to learn grammar with. They all cover pretty much the sam
 
 <br>
 
-### Tae Kims
+### Tae Kim
 
 A very standard guide which doesn't overstay its welcome. Explains concepts with examples and reads like several articles put together.
 
