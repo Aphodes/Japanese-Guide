@@ -1,6 +1,6 @@
 # Introduction
 
-This is a condensed version of resources and ideas that can be found on [https://morg.systems/58465ab9](https://morg.systems/58465ab9) . You can think of it as a rough roadmap for Japanese learning, with resources attached.
+This is a condensed version of resources and ideas that can be found on [https://morg.systems/58465ab9](https://morg.systems/58465ab9) . You should check out that website for a more detailed idea of what learning the language is going to look like, especially after some time going through these beginner resources. You can think of this as a rough roadmap for Japanese learning, with resources attached.
 <br>
 <br>
 <br>
