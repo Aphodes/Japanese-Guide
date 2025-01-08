@@ -132,8 +132,7 @@ A guide which doesn't believe that mastery of grammar comes from reading long wi
 Classic classroom textbook. While geared towards classroom learning, it is perfectly fine for independent learners too. It is recommended to skip the exercises and just go through the grammar
 
   
-
-[**(https://bit.ly/3qa752M)]**
+**https://www.amazon.com/genki-1/s?k=genki+1**
 
 <br>
 
