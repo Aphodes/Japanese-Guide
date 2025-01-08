@@ -140,15 +140,14 @@ Classic classroom textbook. While geared towards classroom learning, it is perfe
 
 Similar to Genki but entirely in Japanese. Personally don't recommend it due to the higher barrier to entry and less than ideal lessons.
 
-
-**[[[https://bit.ly/3iSJ1Qk]**
+**https://www.amazon.com/minna-no-nihongo-Books/s?k=minna+no+nihongo&rh=n%3A283155*
 
 <br>
 
 
 ## Pitch Accent
 
-Despite what people say, pitch is absolutely a core part of the language and while it's possible to get by without good pitch, it will make conversing with you significantly more difficult and unpleasant. 
+Despite what people say, pitch is absolutely a core part of the language and while it's possible to get by without good pitch, it wi*l make conversing with you significantly more difficult and unpleasant. 
 
 As a beginner, doing about 10 hours of ear training for pitch accent early on in your learning process can help you save hundreds of hours of pain later on.
 
