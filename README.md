@@ -133,7 +133,7 @@ Classic classroom textbook. While geared towards classroom learning, it is perfe
 
   
 
-**[https://bit.ly/3qa752M](https://bit.ly/3qa752M)**
+**[[https://bit.ly/3qa752M](https://bit.ly/3qa752M)](https://www.amazon.com/genki-1/s?k=genki+1)**
 
 <br>
 
@@ -142,7 +142,7 @@ Classic classroom textbook. While geared towards classroom learning, it is perfe
 Similar to Genki but entirely in Japanese. Personally don't recommend it due to the higher barrier to entry and less than ideal lessons.
 
 
-**[https://bit.ly/3iSJ1Qk](https://bit.ly/3iSJ1Qk)**
+**[[https://bit.ly/3iSJ1Qk](https://bit.ly/3iSJ1Qk)](https://www.amazon.com/minna-no-nihongo-Books/s?k=minna+no+nihongo&rh=n%3A283155)**
 
 <br>
 
