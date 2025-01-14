@@ -41,7 +41,7 @@ As a beginner you need
 -   A way to learn grammar and acquire awareness of the language structure
 <br>
 
-Your objective is to build enough of a foundation in these two aspects so that you can start immersing in content meant for native speakers. Even if you forget words or grammar points, you will at least have enough knowledge to know what you don't know and and be able to look it up or ask about it. 
+Your objective is to build enough of a foundation in these two aspects so that you can start immersing in content meant for native speakers. Even if you forget words or grammar points, you will at least have enough knowledge to know what you don't know and and be able to look it up or ask about it. You should be doing these two steps in parallel.
 <br>
 <br>
 You are also free to have a go at immersion at any point in time while building your foundation. When to take the leap is up to you.
@@ -53,7 +53,7 @@ You are also free to have a go at immersion at any point in time while building 
 
 Below are a few options you can use to learn words with. 
 
-Remember, language learning is a marathon not a race, and these are tools to help you learn the language, not actual language learning itself. Doing 100 new words does not mean you're learning the language.
+Remember, language learning is a marathon not a race, and these are tools to help you learn the language, not actual language learning itself. This it to say that you only really "know" the words when you see them in context multiple times, memorizing them through Anki is just a supplement. Doing 100 new words does not mean you're learning the language. 
   <br>
   
 
