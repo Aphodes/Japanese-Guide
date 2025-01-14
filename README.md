@@ -2,6 +2,9 @@
 
 This is a condensed version of resources and ideas that can be found on [https://morg.systems/58465ab9](https://morg.systems/58465ab9) . You should check out that website for a more detailed idea of what learning the language is going to look like, especially after some time going through these beginner resources. You can think of this as a rough roadmap for Japanese learning, with resources attached.
 <br>
+The core belief of this guide is that language learning happens when you spend time in the language, with content made for native speakers. However, it is quite daunting to jump straight into such content and thus this guide serves to help build a foundation so you can start reading or watching Japanese content. 
+(For a more in-depth explanation on the language learning process, do visit the link above)
+<br>
 <br>
 <br>
 
