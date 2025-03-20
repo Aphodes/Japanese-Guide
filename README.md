@@ -118,6 +118,13 @@ A very standard guide which doesn't overstay its welcome. Explains concepts with
 **[https://guidetojapanese.org/learn/grammar](https://guidetojapanese.org/learn/grammar)**
   <br>
 
+  ### Yokubi
+
+  A reimagining of Sakubi (see below). Clears the mistakes and confusion from the original version while maintaining the core philosophy
+
+  **https://yoku.bi/**
+  <br>
+
 
 ### Sakubi
 
