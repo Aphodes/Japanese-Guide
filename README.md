@@ -180,3 +180,9 @@ While some people may find graded readers boring, they are a good stepping stone
  [https://www.nhk.or.jp/school/kokugo/ohanashi/](https://www.nhk.or.jp/school/kokugo/ohanashi/ "https://www.nhk.or.jp/school/kokugo/ohanashi/") 
  
   [https://www.nhk.or.jp/school/kokugo/classic/](https://www.nhk.or.jp/school/kokugo/classic/ "https://www.nhk.or.jp/school/kokugo/classic/") 
+
+  <br>
+  <br>
+  If you have any questions or feedback, please do post them in the #japanese_study channel of this Discord server: https://www.discord.gg/japanese
+  You will have to state your native language first to access all channels
+  I might consider making a list of media I recommend for beginners in the future so stay tuned
