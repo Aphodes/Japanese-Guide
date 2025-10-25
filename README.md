@@ -45,7 +45,7 @@ As a beginner you need
 -   A way to learn grammar and acquire awareness of the language structure
 <br>
 
-Your objective is to build enough of a foundation in these two aspects so that you can start immersing in content meant for native speakers. Even if you forget words or grammar points, you will at least have enough knowledge to know what you don't know and and be able to look it up or ask about it. You should be doing these two steps in parallel.
+Your objective is to build enough of a foundation in these two aspects so that you can start immersing in content meant for native speakers. Even if you forget words or grammar points, you will at least have enough knowledge to be able to identify what you don't know and and be able to look it up or ask about it. Ideally, you should be doing these two steps in parallel.
 <br>
 <br>
 You are also free to have a go at immersion at any point in time while building your foundation. When to take the leap is up to you.
@@ -57,7 +57,7 @@ You are also free to have a go at immersion at any point in time while building 
 
 Below are a few options you can use to learn words with. 
 
-Remember, language learning is a marathon not a race, and these are tools to help you learn the language, not actual language learning itself. This it to say that you only really "know" the words when you see them in context multiple times, memorizing them through Anki is just a supplement. Doing 100 new words does not mean you're learning the language. 
+Remember, language learning is a marathon not a race, and these are tools to help you learn the language, not actual language learning itself. This is to say that you only really "know" the words when you see them in context multiple times, memorizing them through Anki is just a supplement. Doing 100 new words does not mean you're learning the language. Also if you feel that jumping straight into vocabulary is too daunting, consider spending some time with one of the grammar resources below to first familiarize yourself with the language.
   <br>
   
 
@@ -140,7 +140,7 @@ A guide which doesn't believe that mastery of grammar comes from reading long wi
 ### Genki
 
 
-Classic classroom textbook. While geared towards classroom learning, it is perfectly fine for independent learners too. It is recommended to skip the exercises and just go through the grammar
+Classic classroom textbook. While geared towards classroom learning, it is perfectly fine for independent learners too. Personally I recommended to skip the exercises and just go through the grammar lessons and explanations
 
   
 **https://www.amazon.com/genki-1/s?k=genki+1**
@@ -149,7 +149,7 @@ Classic classroom textbook. While geared towards classroom learning, it is perfe
 
 ### Minna No Nihongo (MNN)
 
-Similar to Genki but entirely in Japanese. Personally don't recommend it due to the higher barrier to entry and less than ideal lessons.
+Similar to Genki but entirely in Japanese. Personally don't recommend it due to the higher barrier to entry, how classroom-orientated it is, the big focus on business Japanese, and some unconvential approaches to explaining grammar.
 
 **https://www.amazon.com/minna-no-nihongo-Books/s?k=minna+no+nihongo&rh=n%3A283155**
 
@@ -158,7 +158,7 @@ Similar to Genki but entirely in Japanese. Personally don't recommend it due to 
 
 ## Pitch Accent
 
-Despite what people say, pitch is absolutely a core part of the language and while it's possible to get by without good pitch, it wi*l make conversing with you significantly more difficult and unpleasant. 
+Despite what people say, pitch is absolutely a core part of the language and while it's possible to get by without good pitch, it will make conversing with you significantly more difficult and unpleasant. 
 
 As a beginner, doing about 10 hours of ear training for pitch accent early on in your learning process can help you save hundreds of hours of pain later on.
 
